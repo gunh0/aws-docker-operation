@@ -1,20 +1,23 @@
-# Handling Docker Container with AWS A to Z
+# AWS Docker Operation
 
-*It deals with several cases necessary for the operation of the automated system, including docker operation.*
+*Here is an example used in a system configuration that uses AWS docker containers.
+It also includes operational methods using other tools such as bash and Python.*
 
 <br/>
 
 <br/>
 
-## # `automation_code` Directory
+## # `AWS_Deploy_Automation`
 
 ![Full_Architecture.drawio](README.assets/Full_Architecture.drawio.png)
 
 <br/>
 
-<br/>
 
-<br/>
+
+.3<br/>
+
+<br/>                                                               
 
 ## # Docker ops. Instruction Commands
 
@@ -335,7 +338,7 @@ A /root/.bash_history
 
 <br/>
 
-## # `ops_with_bash` Directory
+## # `ops_with_bash`
 
 <br/>
 
@@ -343,5 +346,5 @@ A /root/.bash_history
 
 <br/>
 
-## # `ops_with_python` Directory
+## # `ops_with_python`
 
